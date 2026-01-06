@@ -16,6 +16,19 @@
 > Main bas aapki permission le raha hoon—**abhi update start kar deta hoon**.
 
 ---
+---
+
+**Good Afternoon Sir/Ma’am.**
+
+Main **Suvit Software Support Team** se bol raha/rahi hoon.
+
+Sir, **Suvit ka latest update release ho chuka hai**, jo **Tally 7 ke saath fully compatible** hai. Is update ke baad aap **Tally ka newer version bina kisi issue ke use** kar paayenge.
+
+Ye **sirf 2 minute ka process** hai aur aapka **Vyapar/Taxation ka kaam aur smooth** ho jaayega.
+Ye **recommended update** hai, isliye main **abhi update start kar deta hoon**.
+
+---
+---
 
 ### 🔹 If Customer Hesitates (Very Important Line)
 
@@ -49,7 +62,9 @@
 ### 🔹 Link Explain Karne Ka Tarika (Very Important)
 
 > Sir/Ma’am, aap is **FAQ link** ko refer kar sakte ho:
+
 > 👉 **How to download Suvit Desktop App & Tally Connector**
+> 
 > [https://help.suvit.io/articles/install-suvit-desktop-tally-connector-application](https://help.suvit.io/articles/install-suvit-desktop-tally-connector-application)
 >
 > Aur agar aapko **video dekhkar samajhna easy lagta hai**, to ye **official YouTube tutorial** hai:
