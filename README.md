@@ -20,9 +20,12 @@
 
 **Good Afternoon Sir/Ma’am.**
 
-Main **Suvit Software Support Team** se bol raha/rahi hoon.
+Main **Suvit Software** se bol raha hoon.
 
-Sir, **Suvit ka latest update release ho chuka hai**, jo **Tally 7 ke saath fully compatible** hai. Is update ke baad aap **Tally ka newer version bina kisi issue ke use** kar paayenge.
+Sir, **Suvit ka latest update release hua he 1.4.7**, jo **Tally 7 ke saath fully compatible** hai. 
+Kya me jaan sakta hu aaapne update karva liya he ya nahi ?
+to kya aapko me help kar sakta hu install karne me, aap any desk dijiye, 2 minite ki process he sir sirf.
+Is update ke baad aap **Tally ka newer version bina kisi issue ke use** kar paayenge.
 
 Ye **sirf 2 minute ka process** hai aur aapka **Vyapar/Taxation ka kaam aur smooth** ho jaayega.
 Ye **recommended update** hai, isliye main **abhi update start kar deta hoon**.
